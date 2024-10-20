@@ -1,4 +1,4 @@
-# **Qiskit Quantum Computing Notebooks**
+# **IBM Qiskit Quantum Computing Notebooks**
 
 This repository contains a set of **Jupyter Notebooks** designed to introduce and explore **quantum computing** concepts using **Qiskit**, IBM’s open-source quantum computing framework. Each notebook covers a unique aspect of quantum computation, from basic "Hello World" circuits to more advanced experiments such as the **CHSH Inequality** and **Qiskit Runtime Lab**.
 
