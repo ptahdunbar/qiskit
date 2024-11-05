@@ -17,9 +17,20 @@ This repository contains a set of **Jupyter Notebooks** designed to introduce an
 
 This repository provides a hands-on approach to learning quantum computing. To run the notebooks, ensure you have the following prerequisites:
 
-- **Qiskit**: Install it using:
-  ```bash
-  pip install qiskit[visualization] qiskit-aer qiskit-ibm-runtime
+Google Colab for a Seamless Experience!
+
+To make your workshop experience as smooth as possible, we’ll be using Google Colab—a powerful, browser-based platform. No installations are needed, so whether you’re a beginner or experienced, you can feel confident about joining. All you need is access to Google Colab and an IBMid, which will allow you to run quantum programs directly on IBM’s actual quantum computers!
+
+Here’s what to do:
+
+Access Google Colab: https://colab.google/ and you’ll be all set to run code from your browser.
+Create Your Free IBMid: https://www.ibm.com/mysupport/s/my-cases will be your gateway to hands-on quantum programming, and the best part? It’s free!
+
+No Quantum Experience? No Problem!
+
+If quantum computing is completely new to you, that’s exactly why we’re here. These workshops are designed to introduce and explain this emerging technology, with IBM and computing experts on hand to guide you through each step. You’ll be in good company, and we’ll ensure that you gain a foundational understanding.
+
+With these tools in place, you’ll be set up for a truly interactive experience. Whether this is your first step into quantum or you’re looking to expand your skills, this approach is designed to support every level.
 
 ## **Notebooks Overview**
 
