@@ -50,7 +50,6 @@ This notebook introduces the **foundations of quantum circuits**, focusing on ke
 - **Simulation**: Execute the circuits on a **local Aer simulator**.
 - **Visualization**: Use **matplotlib** to visualize circuit diagrams and results.
 
----
 
 ### 2. **cHSHInequality(B2).ipynb**
 https://colab.research.google.com/drive/1ogAAOY4seJU-UuSpcGKNyMCar9fPUJeP#scrollTo=NljfYt205xz3
@@ -62,6 +61,8 @@ This notebook examines the **CHSH Inequality**, demonstrating quantum entangleme
 - **CHSH Inequality**: Verify the quantum violation of the classical CHSH inequality.
 - **Observables**: Measure and compare quantum vs. classical results.
 - **Execution**: Run the experiment on real quantum hardware using **Estimator Primitives**.
+
+---
 
 ### Intermediate
 
