@@ -50,7 +50,7 @@ This notebook introduces the **foundations of quantum circuits**, focusing on ke
 
 ---
 
-### 2. **CHSH Inequality(B2).ipynb**
+### 2. **cHSHInequality(B2).ipynb**
 https://colab.research.google.com/drive/1ogAAOY4seJU-UuSpcGKNyMCar9fPUJeP#scrollTo=NljfYt205xz3
 
 This notebook examines the **CHSH Inequality**, demonstrating quantum entanglement and the concept of **non-locality**.
