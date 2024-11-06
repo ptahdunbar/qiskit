@@ -50,6 +50,8 @@ This notebook introduces the **foundations of quantum circuits**, focusing on ke
 - **Simulation**: Execute the circuits on a **local Aer simulator**.
 - **Visualization**: Use **matplotlib** to visualize circuit diagrams and results.
 
+- *Mare sure to click Copy to Drive to work out of your own notebook.
+
 ---
 
 ### 2. **cHSHInequality(B2).ipynb**
