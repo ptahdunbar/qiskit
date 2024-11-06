@@ -49,7 +49,15 @@ This notebook introduces the **foundations of quantum circuits**, focusing on ke
 
 ---
 
-### 2. **welcomeAndHelloWorld.ipynb**
+### 2. **CHSH Inequality(B2).ipynb**, https://colab.research.google.com/drive/1ogAAOY4seJU-UuSpcGKNyMCar9fPUJeP#scrollTo=NljfYt205xz3
+
+This notebook examines the **CHSH Inequality**, demonstrating quantum entanglement and the concept of **non-locality**.
+
+#### **Summary:**
+- **Entanglement**: Build circuits that create entangled qubit pairs.
+- **CHSH Inequality**: Verify the quantum violation of the classical CHSH inequality.
+- **Observables**: Measure and compare quantum vs. classical results.
+- **Execution**: Run the experiment on real quantum hardware using **Estimator Primitives**.### 2. **welcomeAndHelloWorld.ipynb**
 
 This notebook provides a simple "Hello World" program in the context of quantum computing and demonstrates basic quantum operations.
 
@@ -82,14 +90,4 @@ This notebook explores **circuit optimization** through Qiskit’s transpiler, p
 - **Deployment**: Prepare circuits for noisy quantum hardware.
 
 ---
-
-### 5. **CHSH_Inequality_(B2).ipynb**
-
-This notebook examines the **CHSH Inequality**, demonstrating quantum entanglement and the concept of **non-locality**.
-
-#### **Summary:**
-- **Entanglement**: Build circuits that create entangled qubit pairs.
-- **CHSH Inequality**: Verify the quantum violation of the classical CHSH inequality.
-- **Observables**: Measure and compare quantum vs. classical results.
-- **Execution**: Run the experiment on real quantum hardware using **Estimator Primitives**.
 
