@@ -35,7 +35,7 @@ With these tools in place, you’ll be set up for a truly interactive experience
 
 ## **Notebooks Overview**
 
-### 1. **firstStepsIntoQuantumComputing(B1).ipynb** , https://drive.google.com/drive/folders/1b4Wj8Xph5j8E1Cbn8roES3grohVqsuTc?usp=sharing
+### 1. **firstStepsIntoQuantumComputing(B1).ipynb** , https://colab.research.google.com/drive/1TVjaxLuiJJKGIQmiwYZZUj59rrlDrHVV?usp=drive_link
 
 This notebook introduces the **foundations of quantum circuits**, focusing on key concepts such as **superposition**, **entanglement**, and **measurement**.
 
