@@ -35,7 +35,7 @@ With these tools in place, you’ll be set up for a truly interactive experience
 
 ## **Notebooks Overview**
 
-### Beginner
+#### Beginner
 
 ### 1. **firstStepsIntoQuantumComputing(B1).ipynb** 
 https://colab.research.google.com/drive/1TVjaxLuiJJKGIQmiwYZZUj59rrlDrHVV?usp=drive_link
@@ -50,6 +50,7 @@ This notebook introduces the **foundations of quantum circuits**, focusing on ke
 - **Simulation**: Execute the circuits on a **local Aer simulator**.
 - **Visualization**: Use **matplotlib** to visualize circuit diagrams and results.
 
+---
 
 ### 2. **cHSHInequality(B2).ipynb**
 https://colab.research.google.com/drive/1ogAAOY4seJU-UuSpcGKNyMCar9fPUJeP#scrollTo=NljfYt205xz3
@@ -64,7 +65,7 @@ This notebook examines the **CHSH Inequality**, demonstrating quantum entangleme
 
 ---
 
-### Intermediate
+#### Intermediate
 
 ### 3. **welcomeAndHelloWorld(I1).ipynb**
 https://colab.research.google.com/drive/1SsY_rfQMNL4pa5RxArTjuDhJcSbOzIAu#scrollTo=UTs9--QJd1Y4
