@@ -65,7 +65,7 @@ This notebook examines the **CHSH Inequality**, demonstrating quantum entangleme
 
 ### Intermediate
 
-- ### 3. **welcomeAndHelloWorld(I1).ipynb**
+### 3. **welcomeAndHelloWorld(I1).ipynb**
 https://colab.research.google.com/drive/1SsY_rfQMNL4pa5RxArTjuDhJcSbOzIAu#scrollTo=UTs9--QJd1Y4
 
 This notebook provides a simple "Hello World" program in the context of quantum computing and demonstrates basic quantum operations.
