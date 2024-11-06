@@ -35,7 +35,7 @@ With these tools in place, you’ll be set up for a truly interactive experience
 
 ## **Notebooks Overview**
 
-#### Beginner
+## Beginner
 
 ### 1. **firstStepsIntoQuantumComputing(B1).ipynb** 
 https://colab.research.google.com/drive/1TVjaxLuiJJKGIQmiwYZZUj59rrlDrHVV?usp=drive_link
@@ -65,7 +65,7 @@ This notebook examines the **CHSH Inequality**, demonstrating quantum entangleme
 
 ---
 
-#### Intermediate
+## Intermediate
 
 ### 3. **welcomeAndHelloWorld(I1).ipynb**
 https://colab.research.google.com/drive/1SsY_rfQMNL4pa5RxArTjuDhJcSbOzIAu#scrollTo=UTs9--QJd1Y4
