@@ -29,12 +29,12 @@ With these tools in place, you'll be set up for a truly interactive experience. 
 
 ## **Notebooks Overview**
 
-### **Beginner**
+## Beginner
 
-#### 1. **firstStepsIntoQuantumComputing(B1).ipynb**
+### 1. **firstStepsIntoQuantumComputing(B1).ipynb** 
 https://colab.research.google.com/drive/1TVjaxLuiJJKGIQmiwYZZUj59rrlDrHVV?usp=drive_link
 
-*Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.*
+Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.
 
 This notebook introduces the **foundations of quantum circuits**, focusing on key concepts such as **superposition**, **entanglement**, and **measurement**.
 
@@ -46,25 +46,29 @@ This notebook introduces the **foundations of quantum circuits**, focusing on ke
 - **Simulation**: Execute the circuits on a **local Aer simulator**.
 - **Visualization**: Use **matplotlib** to visualize circuit diagrams and results.
 
-#### 2. **cHSHInequality(B2).ipynb**
+---
+
+### 2. **cHSHInequality(B2).ipynb**
 https://colab.research.google.com/drive/1ogAAOY4seJU-UuSpcGKNyMCar9fPUJeP#scrollTo=NljfYt205xz3
 
-*Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.*
+Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.
 
-This notebook examines the **CHSH Inequality**, demonstrating quantum entanglement and the concept of non-locality.
+This notebook examines the **CHSH Inequality**, demonstrating quantum entanglement and the concept of **non-locality**.
 
-##### **Summary:**
+#### **Summary:**
 - **Entanglement**: Build circuits that create entangled qubit pairs.
 - **CHSH Inequality**: Verify the quantum violation of the classical CHSH inequality.
 - **Observables**: Measure and compare quantum vs. classical results.
-- **Execution**: Run the experiment on real quantum hardware using Estimator Primitives.
+- **Execution**: Run the experiment on real quantum hardware using **Estimator Primitives**.
 
-### **Intermediate**
+---
 
-#### 3. **welcomeAndHelloWorld(I1).ipynb**
+## Intermediate
+
+### 3. **welcomeAndHelloWorld(I1).ipynb**
 https://colab.research.google.com/drive/1SsY_rfQMNL4pa5RxArTjuDhJcSbOzIAu#scrollTo=UTs9--QJd1Y4
 
-*Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.*
+Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.
 
 This notebook provides a simple "Hello World" program in the context of quantum computing and demonstrates basic quantum operations.
 
@@ -74,10 +78,12 @@ This notebook provides a simple "Hello World" program in the context of quantum 
 - **Visualization**: Display circuits and results with matplotlib.
 - **Grader Exercises**: Submit answers using the Qiskit Grader.
 
-#### 4. **qiskitRuntimeLab(I2).ipynb**
+---
+
+### 4. **qiskitRuntimeLab(I2).ipynb**
 https://colab.research.google.com/drive/1z4x5_F_uRyPwYdbWZ_bDiBlDNqa-eT5g#scrollTo=Brp6iYWVNsKI
 
-*Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.*
+Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.
 
 This notebook focuses on **Qiskit Runtime**, a cloud-based service for efficient quantum circuit execution on IBM hardware.
 
@@ -89,7 +95,10 @@ This notebook focuses on **Qiskit Runtime**, a cloud-based service for efficient
 #### 5. **theTranspiler(I3).ipynb**
 https://colab.research.google.com/drive/1hZwz8LBoo3uVvndpA9o-pAv9R_pgGWHV#scrollTo=6c47ad18
 
-*Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.*
+### 5. **theTranspiler(I3).ipynb**
+https://colab.research.google.com/drive/1hZwz8LBoo3uVvndpA9o-pAv9R_pgGWHV#scrollTo=6c47ad18
+
+Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.
 
 This notebook explores circuit optimization through Qiskit's transpiler, preparing circuits for hardware execution.
 
@@ -97,3 +106,6 @@ This notebook explores circuit optimization through Qiskit's transpiler, prepari
 - **Optimization**: Use the transpiler to reduce gate depth and circuit size.
 - **Comparison**: Test the impact of different transpiler settings.
 - **Deployment**: Prepare circuits for noisy quantum hardware.
+
+---
+
