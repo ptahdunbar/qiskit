@@ -5,9 +5,7 @@ This repository contains a set of **Jupyter Notebooks** designed to introduce an
 ## **Table of Contents**
 1. [Introduction and Setup](#introduction-and-setup)
 2. [Notebooks Overview](#notebooks-overview)
-3. [Quantum Concepts in the Notebooks](#quantum-concepts-in-the-notebooks)
-4. [How to Run the Notebooks](#how-to-run-the-notebooks)
-5. [Additional Resources](#additional-resources)
+3. [Additional Resources](#additional-resources)
 
 ## **Introduction and Setup**
 
@@ -101,6 +99,28 @@ https://colab.research.google.com/drive/1hZwz8LBoo3uVvndpA9o-pAv9R_pgGWHV#scroll
 Note: Make sure to click 'Copy to Drive' to work out of your own Colab notebook.
 
 This notebook explores circuit optimization through Qiskit's transpiler, preparing circuits for hardware execution.
+
+## **Additional Resources**
+
+### **Official Documentation**
+- [Qiskit Documentation](https://qiskit.org/documentation/)
+- [IBM Quantum Learning](https://learning.quantum.ibm.com/)
+- [Qiskit Textbook](https://qiskit.org/textbook/preface.html)
+
+### **Development Tools**
+- [Google Colab](https://colab.research.google.com/) - Cloud-based Python environment
+- [IBM Quantum Lab](https://quantum-computing.ibm.com/) - Access to real quantum computers
+- [Qiskit SDK GitHub](https://github.com/Qiskit/qiskit) - Source code and examples
+
+### **Community Resources**
+- [Qiskit Slack Community](https://qisk.it/join-slack)
+- [Qiskit GitHub Discussions](https://github.com/Qiskit/qiskit/discussions)
+- [Stack Exchange Q&A](https://quantumcomputing.stackexchange.com/questions/tagged/qiskit)
+
+### **Learning Materials**
+- [Coding with Qiskit YouTube Series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY)
+- [Qiskit Summer School Materials](https://qiskit.org/events/summer-school/)
+- [Quantum Computing Exercises](https://quantum-computing.ibm.com/lab/docs/iql/first-circuit)
 
 ##### **Summary:**
 - **Optimization**: Use the transpiler to reduce gate depth and circuit size.
