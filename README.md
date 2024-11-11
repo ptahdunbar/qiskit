@@ -90,9 +90,6 @@ This notebook focuses on **Qiskit Runtime**, a cloud-based service for efficient
 - **Backend Management**: Use the least busy backend for faster execution.
 - **Execution**: Run circuits on real quantum hardware using Qiskit Runtime.
 
-#### 5. **theTranspiler(I3).ipynb**
-https://colab.research.google.com/drive/1hZwz8LBoo3uVvndpA9o-pAv9R_pgGWHV#scrollTo=6c47ad18
-
 ### 5. **theTranspiler(I3).ipynb**
 https://colab.research.google.com/drive/1hZwz8LBoo3uVvndpA9o-pAv9R_pgGWHV#scrollTo=6c47ad18
 
